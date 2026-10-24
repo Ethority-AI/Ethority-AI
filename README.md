@@ -1,16 +1,15 @@
-## Hi there 👋
+![ETHORITY — AI Business OS](ethority-banner.png)
 
-<!--
-**Ethority-AI/Ethority-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ETHORITY
 
-Here are some ideas to get you started:
+### From business ambition to AI that works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We’re preparing the next ETHORITY experience: a clearer way to explore AI and its possibilities for organizations.
+
+More when we’re ready.
+
+[Website](https://ethority.ai) · [About](https://ethority.ai/about) · [Contact](https://ethority.ai/contact) · [Privacy](https://ethority.ai/privacy)
+
+---
+
+This profile provides general information. It does not offer access to software or services or promise availability or results.
